@@ -1,0 +1,2 @@
+Dataset adapted from: https://www.kaggle.com/datasets/prondeau/the-car-connection-picture-dataset
+To create the "sketch" images a Canny edges detector was used

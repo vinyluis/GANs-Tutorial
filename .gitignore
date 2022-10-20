@@ -1,13 +1,7 @@
-Referências de Modelos
-Experimentos - Pré Qualificação
-Experimentos
-Validação U-Net
-training_checkpoints
-checkpoints
-__pycache__
-wandb
-*.h5
-x_Antigos
 .vscode
 .ipynb_checkpoints
+__pycache__
 Others
+cyclegan_dataset
+dcgan_dataset
+pix2pix_dataset
