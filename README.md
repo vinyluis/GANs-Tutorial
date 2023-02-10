@@ -14,6 +14,8 @@ Universidade Federal do ABC
 
 This repository contains the supplementary material for the [SIBGRAPI 2022](https://www.natalnet.br/sibgrapi2022/) Tutorial ***"Fundamentals and Challenges of Generative Adversarial Networks for Image-based Applications"***.
 
+The associated paper is available on the [IEEE Xplore website](https://ieeexplore.ieee.org/abstract/document/9991776).
+
 Feel free to use it for self-study, but full or partial reproduction is prohibited without the permission of the authors.
 
 ## Abstract
