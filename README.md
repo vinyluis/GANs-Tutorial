@@ -8,6 +8,8 @@ Centro de Matemática, Computação e Cognição
 
 Universidade Federal do ABC
 
+![Fundamentals and Challenges of Generative Adversarial Networks for Image-based Applications](FundAndChallenges.png)
+
 ---
 
 This repository contains the supplementary material for the [SIBGRAPI 2022](https://www.natalnet.br/sibgrapi2022/) Tutorial ***"Fundamentals and Challenges of Generative Adversarial Networks for Image-based Applications"***.
